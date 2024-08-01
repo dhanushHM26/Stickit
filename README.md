@@ -1,8 +1,10 @@
-# React + Vite
+# stickit
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Setup instructions
+
+-   Clone repo: `git clone <REPO URL>`
+-   Install dependencies and run server: `cd reponame` + `npm i` + `npm run dev`
+-   Setup Appwrite backend with database (See database details below)
+-   Create `.env` file (use `.env.example` as a reference) and update appwrite credentials
